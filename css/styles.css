@@ -20,6 +20,21 @@ img {
     max-width: 100%;
     display: block;
 }
+/* Style rules for mobile viewing */
+
+
+/*Style rules to show mobile class and hide tab-desk class*/
+mobile class{
+    display: block;
+    
+}
+
+/*style rules for header area */
+
+h1, h3{
+   padding: 2%;
+   text-align: center;
+}
 
 /* Style rules for navigation area */
 nav {
